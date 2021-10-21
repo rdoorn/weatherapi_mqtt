@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"io"
+	"io/ioutil"
 	"log"
 	"net/http"
 	"time"
@@ -17,7 +17,7 @@ func getJson(url string, target interface{}) error {
 		return err
 	}
 	defer r.Body.Close()
-	body, err := io.ReadAll(r.Body)
+	body, err := ioutil.ReadAll(r.Body)
 	if err != nil {
 		return err
 	}
