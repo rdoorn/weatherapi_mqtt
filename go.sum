@@ -1,0 +1,11 @@
+github.com/eclipse/paho.mqtt.golang v1.2.0 h1:1F8mhG9+aO5/xpdtFkW4SxOJB67ukuDC3t2y2qayIX0=
+github.com/eclipse/paho.mqtt.golang v1.2.0/go.mod h1:H9keYFcgq3Qr5OUJm/JZI/i6U7joQ8SYLhZwfeOo6Ts=
+github.com/mlbright/darksky v0.0.0-20190903032611-d133a40b35ab h1:wkM5dKp+t+ouGC/FGljp96sTa53sA5E1EJfwfJvF/uE=
+github.com/mlbright/darksky v0.0.0-20190903032611-d133a40b35ab/go.mod h1:2mqgU4JqQpCMhRY2w+/aPKD/U0MDwkNMFxr2fTXDwYQ=
+github.com/rdoorn/gohelper/mqtthelper v0.0.0-20191203110057-6ce6aa0d11fb h1:TSETJeDFEZsNV2MNHC9O8UGU8741DRSu0QBb56YpPdE=
+github.com/rdoorn/gohelper/mqtthelper v0.0.0-20191203110057-6ce6aa0d11fb/go.mod h1:+JAyARH6mPkiTxHmSlYp1mDe+gPdQpXQrMF3P+3ldvI=
+golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
+golang.org/x/net v0.0.0-20191126235420-ef20fe5d7933 h1:e6HwijUxhDe+hPNjZQQn9bA5PW3vNmnN64U2ZW759Lk=
+golang.org/x/net v0.0.0-20191126235420-ef20fe5d7933/go.mod h1:z5CRVTTTmAJ677TzLLGU+0bjPO0LkuOLi4/5GtJWs/s=
+golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
