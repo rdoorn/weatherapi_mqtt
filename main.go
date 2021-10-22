@@ -102,7 +102,7 @@ func main() {
 	}
 
 	// run solaredge get on a timer
-	ticker := time.NewTicker(5 * time.Minute)
+	ticker := time.NewTicker(15 * time.Minute)
 	log.Printf("starting poll")
 	h.poll()
 
